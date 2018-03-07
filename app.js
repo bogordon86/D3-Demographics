@@ -93,7 +93,7 @@ var xMin;
       return yLinearScale(data.poverty);
     })
     .attr("r", "12")
-    .attr("fill", "skyblue")
+    .attr("fill", "cornflowerblue")
 
     .on("click", function(data) {
       toolTip.show(data);
@@ -110,8 +110,10 @@ var xMin;
   });
 
   chart
-    .selectAll("g").data(csvData).enter().append("text").attr("dx", function(data, index) {
-      return xLinearScale(data[currentAxisLabelX])-11.5;
+    .selectAll("g").data(csvData).enter().append("text").attr("class", "stateText")
+    .attr("text-anchor", "middle")
+    .attr("dx", function(data, index) {
+      return xLinearScale(data[currentAxisLabelX]);
     })
     .attr("dy", function(data, index) {
       return yLinearScale(data.poverty)+4;
@@ -230,12 +232,12 @@ var xMin;
               })
               .duration(1800);
           })
-          d3.selectAll("g").each(function() {
+          d3.selectAll(".stateText").each(function() {
             d3
             .select(this)
             .transition()
             .attr("dx", function(data, index) {
-              return xLinearScale(data[currentAxisLabelX]);
+              return xLinearScale(+data[currentAxisLabelX]);
             })
             .duration(1800);
           })

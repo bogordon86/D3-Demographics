@@ -1,7 +1,11 @@
 #hairmetal {
   border-radius: 8px;
 }
+.w3-container {
+  padding:0.01em 16px
+}
 
+.w3-blue,.w3-hover-blue:hover{color:#fff!important;background-color:#2196F3!important}
 .chart::before {
   position: absolute;
   top: 50px;
