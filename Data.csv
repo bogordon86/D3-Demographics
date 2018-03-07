@@ -1,0 +1,52 @@
+id,state,abbr,poverty,heavy_drinkers,bad_health
+1,Alabama,AL,19.2,4.5,22.9
+2,Alaska,AK,11.2,8.8,13.4
+3,Arizona,AZ,18.2,5.8,19
+4,Arkansas,AR,18.9,5.1,23.5
+5,California,CA,16.4,5.7,18.1
+6,Colorado,CO,12.0,6.5,13.2
+7,Connecticut,CT,10.8,5.7,14.3
+8,Delaware,DE,12.5,5.2,15.6
+9,District of Columbia,DC,17.7,9,12.9
+10,Florida,FL,16.5,6.7,19.3
+11,Georgia,GA,18.3,5.3,18.8
+12,Hawaii,HI,11.3,7.9,14.6
+13,Idaho,ID,14.8,5,13.1
+14,Illinois,IL,14.3,6.5,17.3
+15,Indiana,IN,15.2,5.2,18.9
+16,Iowa,IA,12.2,6.3,13.6
+17,Kansas,KS,13.5,5.1,15.4
+18,Kentucky,KY,19.1,5.5,24.3
+19,Louisiana,LA,19.8,6.5,21.7
+20,Maine,ME,14.1,7.1,15.1
+21,Maryland,MD,10.1,5.3,14.2
+22,Massachusetts,MA,11.6,7,14.5
+23,Michigan,MI,16.2,6.8,16.8
+24,Minnesota,MN,11.5,6.4,12
+25,Mississippi,MS,21.5,4.3,22.1
+26,Missouri,MO,15.4,5.2,16.9
+27,Montana,MT,15.4,7.5,15.4
+28,Nebraska,NE,12.4,6.4,13.2
+29,Nevada,NV,15.2,6.9,18.5
+30,New Hampshire,NH,9.1,7.1,13.7
+31,New Jersey,NJ,11.1,4.8,16.9
+32,New Mexico,NM,21.3,5.7,20.7
+33,New York,NY,15.9,4.9,17.2
+34,North Carolina,NC,17.2,5.1,19
+35,North Dakota,ND,11.5,6.7,14.1
+36,Ohio,OH,15.8,6.4,17.9
+37,Oklahoma,OK,16.5,3.9,20.5
+38,Oregon,OR,16.5,7.7,15.6
+39,Pennsylvania,PA,13.5,6,17.1
+40,Rhode Island,RI,14.3,6.2,15.3
+41,South Carolina,SC,7.9,5.9,19.7
+42,South Dakota,SD,14.2,5,14
+43,Tennessee,TN,18.3,4.1,23.8
+44,Texas,TX,17.2,5.8,19.5
+45,Utah,UT,11.7,3.3,12.1
+46,Vermont,VT,12.1,9.1,11.7
+47,Virginia,VA,11.8,5.3,16.9
+48,Washington,WA,13.2,6.8,16
+49,West Virginia,WV,18.3,3.6,25.8
+50,Wisconsin,WI,13.2,7.2,15.5
+51,Wyoming,WY,11.2,6.2,13.7
